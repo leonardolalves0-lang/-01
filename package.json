@@ -1,0 +1,8 @@
+{
+  "name": "agua-de-coco-do-joao-painel",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Painel de controle financeiro da Água de Coco do João",
+  "type": "module",
+  "engines": { "node": ">=18" }
+}
